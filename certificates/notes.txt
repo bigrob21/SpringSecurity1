@@ -1,0 +1,10 @@
+-- Subjects
+CN=Rob Paul,OU=Software Engineer,O=Programmer Inc.,L=Damascus,ST=MD,C=US,E=bogus.com
+CN=Daenerys Targaryen,OU=Software Engineer,O=Programmer Inc.,L=Damascus,ST=MD,C=US,E=bogus.com
+CN=Ned Stark,OU=Software Engineer,O=Programmer Inc.,L=Damascus,ST=MD,C=US,E=bogus.com
+CN=Sandor Clegane,OU=Software Engineer,O=Programmer Inc.,L=Damascus,ST=MD,C=US,E=bogus.com
+CN=Gregor Clegane,OU=Software Engineer,O=Programmer Inc.,L=Damascus,ST=MD,C=US,E=bogus.com
+
+
+-- Issuer
+CN=Big Rob's Cert Empire,OU=The Cert Authority,O=Cert Signer,L=Damascus,ST=MD,C=US,E=bogus.com
