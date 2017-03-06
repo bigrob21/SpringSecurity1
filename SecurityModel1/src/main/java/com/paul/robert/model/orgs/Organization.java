@@ -27,7 +27,7 @@ import lombok.ToString;
 @AllArgsConstructor
 @ToString
 @Builder
-@Table
+@Table(name="")
 @Entity
 @JsonIgnoreProperties(ignoreUnknown=true)
 public class Organization {
